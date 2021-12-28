@@ -107,6 +107,8 @@ bölme işlemleri //
 
 8,11,12,16,21,22
 
+>>>>>>>>>>> karmaşıklık derecesi Big O = n * Logn >>>>>>>>>>>>>>
+ 
 */
 
 
